@@ -265,6 +265,7 @@ footer {
     .profile-img {
         width: 150px;
         height: 150px;
+        margin: 0 auto 20px auto;
     }
 
     .nav {
@@ -289,6 +290,7 @@ footer {
     .profile-img {
         width: 120px;
         height: 120px;
+        margin: 0 auto 20px auto;
     }
 
     .profile-info h1 {
